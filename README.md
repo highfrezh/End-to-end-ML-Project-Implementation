@@ -1,7 +1,5 @@
 # End-to-end-ML-Project-Implementation
 
-# End-to-end-ML-Project-Implementation
-
 ## Workflows
 
 1. update config.yaml
