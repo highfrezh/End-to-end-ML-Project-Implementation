@@ -12,7 +12,6 @@ from typing import Any
 
 
 @ensure_annotations
-#@ensure_annatations make sure that the variable return this exactly the datatype
 def read_yaml(path_to_yaml: Path) -> ConfigBox:
     """reads yaml file and returns
 
@@ -70,7 +69,6 @@ def save_json(path: Path, data: dict):
 
 @ensure_annotations
 def load_json(path: Path) -> ConfigBox:
-    # ConfigBox is use to access dictionary like dic.key instead of dic["key"]
     """load json files data
 
     Args:
