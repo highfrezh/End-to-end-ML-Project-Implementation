@@ -15,9 +15,13 @@ data_validation:
 
 
 
+data_preprocessing:
+  root_dir: artifacts/data_preprocessing
+  data_path: artifacts/data_ingestion/winequality-red.csv
+
 data_transformation:
   root_dir: artifacts/data_transformation
-  data_path: artifacts/data_ingestion/winequality-red.csv
+  data_path: artifacts/data_preprocessing/preprocessed_data.csv
 
 
 

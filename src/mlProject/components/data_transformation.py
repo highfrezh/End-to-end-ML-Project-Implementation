@@ -13,7 +13,7 @@ class DataTransformation:
     ## Note: You can add different data transformation techniques such as Scaler, PCA and all
     #You can perform all kinds of EDA in ML cycle here before passing this data to the model
 
-    # I am only adding train_test_spliting cz this data is already cleaned up
+    # I am only adding train_test_spliting bcz this data is already cleaned up
 
 
     def train_test_spliting(self):
