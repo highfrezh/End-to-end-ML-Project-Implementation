@@ -1,5 +1,8 @@
 # End-to-end-ML-Project-Implementation
 
+## Red wine quality classification
+<img src = "wine_quality.jpg" width = 600>
+
 ## Workflows
 
 1. update config.yaml
